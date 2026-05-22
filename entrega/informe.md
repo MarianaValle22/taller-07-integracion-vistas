@@ -189,6 +189,22 @@ El mayor aprendizaje del proceso es que **la arquitectura empresarial no es solo
 
 ---
 
+## 🔍 Investigación complementaria
+### Tema investigado:
+Integración de Vistas Arquitectónicas en el Proceso de Selección de Herramientas de Enterprise Architecture en Philips
+
+### Resumen:
+El caso expone el proceso de selección de una herramienta de Arquitectura Empresarial en Philips, motivado por la necesidad de apoyar la estrategia corporativa orientada a consolidar la organización bajo el enfoque “One Philips” [1]. Debido a su estructura global y altamente fragmentada, la compañía contaba con más de 100 sistemas ERP distribuidos entre distintas divisiones de producto, lo que dificultaba la alineación entre los procesos de negocio y las soluciones de TI. Frente a este panorama, Philips adoptó el Integrated Architecture Framework (IAF) y buscó una herramienta que brindara soporte al marco arquitectónico, facilitara la colaboración entre múltiples usuarios y permitiera mantener trazabilidad sobre decisiones y modelos arquitectónicos [1].
+
+Dentro del proceso de evaluación, la integración de vistas arquitectónicas se convirtió en un aspecto fundamental. La herramienta Metis permitió relacionar y consolidar diferentes descripciones arquitectónicas existentes: Hydra, correspondiente a la arquitectura actual del área de Semiconductores; PHERA, asociada a la arquitectura corporativa común; y SITAR, enfocada en estrategias y principios de negocio y TI. A partir de estas descripciones se construyó una cuarta vista basada en el IAF, mediante la cual fue posible vincular objetos, validar relaciones y comprobar la consistencia entre modelos [1].
+
+El análisis permitió identificar inconsistencias entre Hydra y PHERA, además de evidenciar dependencias entre aplicaciones, estrategias y principios organizacionales. De esta manera, el estudio demostró que la integración de vistas arquitectónicas contribuye a mejorar la coherencia empresarial, fortalecer la gobernanza de TI y apoyar una toma de decisiones más informada dentro de Philips [1].
+
+## 📚 Referencias
+- [1] P. Dragstra, Enterprise Architecture: The Selection Process of an Enterprise Architecture Toolset to Support Understanding and Governing the Enterprise, Eindhoven University of Technology, 2005.
+
+---
+
 
 _Documento elaborado como parte del Taller 07 — Integración de Vistas de Arquitectura Empresarial._  
 _Universidad de La Sabana · 2026 · Valentina López · Mariana Valle · Camila León_
